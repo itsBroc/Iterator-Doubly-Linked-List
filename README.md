@@ -1,0 +1,1 @@
+This is a templated doubly linked list with Iterators made in c++. This is an extension of the doubly linked list project that was made during my data structures and algorithms class inwhich I added iterators to the class, allowing further functionality such as range based for loops, insert and erase.
